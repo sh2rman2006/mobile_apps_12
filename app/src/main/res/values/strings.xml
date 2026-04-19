@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab12</string>
+
+    <string-array name="difficulty_entries">
+        <item>Лёгкая</item>
+        <item>Средняя</item>
+        <item>Сложная</item>
+    </string-array>
+
+    <string-array name="difficulty_values">
+        <item>Лёгкая</item>
+        <item>Средняя</item>
+        <item>Сложная</item>
+    </string-array>
+</resources>
